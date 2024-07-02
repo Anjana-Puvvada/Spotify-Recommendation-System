@@ -34,7 +34,7 @@ The dataset is sourced from the Spotify API, which includes a comprehensive coll
 ## Technologies Used
 - **Programming Languages**: Python
 - **Libraries and Frameworks**: Pandas, Scikit-learn, Spotipy, Plotly, Seaborn, Matplotlib
-- **Machine Learning Models**: K-Means Clustering, LSTM, ARIMA
+- **Machine Learning Models**: K-Means Clustering,PCA, t-SNE
 - **Visualization Tools**: Plotly, Matplotlib, Seaborn
 
 ## Authors
