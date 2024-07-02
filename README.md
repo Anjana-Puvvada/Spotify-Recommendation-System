@@ -44,3 +44,6 @@ The dataset is sourced from the Spotify API, which includes a comprehensive coll
 ## Acknowledgements
 - Built using Python, Pandas, Scikit-learn, Spotipy, and Plotly.
 - Inspired by the need for an efficient music recommendation system using time series data.
+- 
+## Reference
+https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/notebook
